@@ -1,0 +1,23 @@
+{
+  "name": "earthquake",
+  "version": "1.0.0",
+  "description": "Earthquake parser project",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobertVera05/EarthquakeProject.git"
+  },
+  "keywords": [
+    "Earthquake"
+  ],
+  "author": "Robert Vera",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.1",
+    "request": "^2.85.0",
+    "underscore": "^1.9.0"
+  }
+}
